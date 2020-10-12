@@ -13,6 +13,7 @@ namespace DEMO_GitHub_Tom
         {
             Console.WriteLine("c'est la zone");
             Console.WriteLine("wsh ");
+            Console.WriteLine("salut");
         }
     }
 }
