@@ -12,6 +12,7 @@ namespace DEMO_GitHub_Tom
         static void Main(string[] args)
         {
             Console.WriteLine("c'est la zone");
+            Console.WriteLine("wsh ");
         }
     }
 }
